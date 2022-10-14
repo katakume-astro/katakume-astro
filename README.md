@@ -17,7 +17,3 @@
 
 [discord]: https://discord.gg/58E6XpgWT2
 
-## Community
-  <p><a href="https://discord.gg/overextended">
-      <img src="https://img.shields.io/discord/964589425990438942?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
-  </a></p>
