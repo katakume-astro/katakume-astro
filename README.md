@@ -17,3 +17,5 @@
 
 [discord]: https://discord.gg/58E6XpgWT2
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
