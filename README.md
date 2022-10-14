@@ -2,7 +2,7 @@
 <br/>
 Spedzam duzo czasu w:
 <br/> 
-### Experiences
+Umiejetnosci:
 
 #### Software
 
