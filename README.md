@@ -1,15 +1,12 @@
 ### Hey there!
-
-I'm a student currently studying computer science.
 <br/>
-I spend my free time coding or doing 3D modeling using autodesk.
+Spedzam duzo czasu w:.
 <br/>
 ## Experiences
 
 #### Software
 
 ![](https://img.shields.io/badge/autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-![](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 #### Programming Languages / Libraries
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
