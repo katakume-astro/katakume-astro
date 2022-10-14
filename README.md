@@ -1,6 +1,4 @@
-### Czesc!
-
-#### Software
+#### Programy
 
 ![](https://img.shields.io/badge/autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
