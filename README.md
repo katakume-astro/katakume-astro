@@ -1,7 +1,4 @@
 ### Czesc!
-<br/>
-Moje umiejetnosci:
-<br/> 
 
 #### Software
 
