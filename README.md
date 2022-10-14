@@ -1,4 +1,4 @@
-#### Jezyki
+#### Jezyki:
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 
 #### Obecnie ucze sie:
