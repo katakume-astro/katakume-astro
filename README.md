@@ -11,4 +11,4 @@
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 
-![Breze's GitHub stats](https://github-readme-stats.vercel.app/api?username=brezedc&theme=dark&show_icons=true&layout=compact&hide_border=true)
+![Breze's GitHub stats](https://github-readme-stats.vercel.app/api?username=katakume-astro&theme=dark&show_icons=true&layout=compact&hide_border=true)
