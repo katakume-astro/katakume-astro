@@ -1,7 +1,3 @@
-#### Programy
-
-![](https://img.shields.io/badge/autodesk-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
-
 #### Jezyki
 ![](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white)
 
