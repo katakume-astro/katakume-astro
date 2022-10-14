@@ -1,6 +1,6 @@
-### Hey there!
+### Czesc!
 <br/>
-Spedzam duzo czasu w:
+Moje umiejetnosci:
 <br/> 
 
 #### Software
