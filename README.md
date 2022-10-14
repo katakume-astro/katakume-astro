@@ -16,5 +16,3 @@
 [<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>][discord]
 
 [discord]: https://discord.gg/58E6XpgWT2
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katakume-astro)](https://github.com/katakume-astro/katakume-astro)
