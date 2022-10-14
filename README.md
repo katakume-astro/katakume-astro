@@ -1,8 +1,7 @@
 ### Hey there!
 <br/>
 Spedzam duzo czasu w:
-<br/>
-## Experiences
+<br/> ## Experiences
 
 #### Software
 
