@@ -1,6 +1,6 @@
 ### Hey there!
 <br/>
-Spedzam duzo czasu w:.
+Spedzam duzo czasu w:
 <br/>
 ## Experiences
 
