@@ -17,3 +17,4 @@
 
 [discord]: https://discord.gg/58E6XpgWT2
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=katakume-astro)](https://github.com/katakume-astro/README)
