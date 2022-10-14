@@ -1,4 +1,4 @@
-### Hey there, I'm Hugo, also known as [Breze][website]!
+### Hey there!
 
 I'm a student currently studying computer science.
 <br/>
