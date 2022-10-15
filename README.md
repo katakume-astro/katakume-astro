@@ -14,5 +14,5 @@
 [discord]: https://discord.gg/58E6XpgWT2
 
 ### Statystyki:
-![katakume-astro](https://github-readme-stats.vercel.app/api?username=katakume&theme=tokyonight&show_icons=true&layout=compact&hide_border=true)
+![katakume-astro](https://github-readme-stats.vercel.app/api?username=katakume-astro&theme=tokyonight&show_icons=true&layout=compact&hide_border=true)
 
