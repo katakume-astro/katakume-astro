@@ -8,11 +8,6 @@
 ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 
-### Media:
-[<img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=Discord&logoColor=white"/>][discord]
-
-[discord]: https://discord.gg/ZSYqJyncDQ
-
 ### Statystyki:
-![katakume-astro](https://github-readme-stats.vercel.app/api?username=katakume-astro&theme=tokyonight&show_icons=true&layout=compact&hide_border=true)
+![katakume21](https://github-readme-stats.vercel.app/api?username=katakume-astro&theme=tokyonight&show_icons=true&layout=compact&hide_border=true)
 
